@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+    background-image: url(https://t3.ftcdn.net/jpg/00/59/32/16/360_F_59321684_gzn09fvhANmRluK5esYybJh4LVDDF2tm.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
